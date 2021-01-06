@@ -1,0 +1,1 @@
+SimpleText is the native text editor for the Apple classic Mac OS. SimpleText allows text editing and text formatting, fonts, and sizes. It was developed to integrate the features included in the different versions of TeachText that were created by various software development groups within Apple.
